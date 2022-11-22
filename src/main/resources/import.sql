@@ -1,0 +1,13 @@
+--insert into ranked values (1, "Bronze");
+--insert into ranked values (2, "Prata");
+--insert into ranked values (3, "Ouro");
+--insert into ranked values (4, "Platina");
+--insert into ranked values (5, "Diamante");
+--insert into ranked values (6, "Mestre");
+--insert into ranked values (7, "Grã-Mestre");
+--
+--insert into user (id,nivel,personagem,pontos,usuario,ranked_id) values(default,70,"Moira",2780,"Dkjunk",4);
+--insert into user (id,nivel,personagem,pontos,usuario,ranked_id) values(default,230,"Hanzo",3255,"gamer_BR",5);
+--insert into user (id,nivel,personagem,pontos,usuario,ranked_id) values(default,312,"McCree",4878,"Alanzoka",7);
+--insert into user (id,nivel,personagem,pontos,usuario,ranked_id) values(default,159,"Mercy",1680,"Guitolive",2);
+
